@@ -1,0 +1,159 @@
+.upper{
+    background:rgb(19, 172, 172);
+}
+.upper ul{
+    overflow: auto;
+    margin-top: 10px;
+}
+.upper li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
+.upper li p{
+    margin-top: 0px;
+    color: aliceblue;
+}
+.side{
+    margin: 20px;
+    float: right;
+    color: aliceblue;
+}
+.upper li a{
+    text-decoration: none;
+    list-style: none;
+    color: aliceblue;
+}
+.navbar li{
+    float: left;
+   
+    padding: 10px;
+    list-style: none;
+    color: antiquewhite;
+}
+.navbar li a{
+    color: grey;
+    text-decoration: none;
+}
+.navbar ul{
+    overflow: auto;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.donate button{
+    float: right;
+   margin-right: 100px;
+   margin-top: 10px;
+    padding: 5px;
+   background:rgb(19, 172, 172);
+    border-color: rgb(19, 172, 172);
+    
+   
+}
+nav{
+    margin-bottom: 100px;
+}
+img{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100px;
+    height: 100px;
+}
+.image img{
+    width: 100%;
+    height: 500px;
+}
+.ourgalary h1{
+  margin-left: 500px;
+  color: rgb(19, 172, 172);
+  font-size: 50px;
+
+}
+.ourgalary p{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.our{
+    overflow: auto;
+    margin-top: 20px;
+    margin-left: 390px;
+}
+.our li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+   
+}
+.our li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.our li a:hover{
+    color:rgb(19, 172, 172);
+
+}
+.ourgalary img{
+    width: 70%;
+    height: 500px;
+    margin-left: 200px;
+}
+.upcomming h1{
+    margin-left: 450px;
+    color: rgb(19, 172, 172);
+    font-size: 50px;
+  
+  }
+  .upcomming img{
+    width: 70%;
+    height: 500px;
+    margin-left: 200px;
+}
+.upcomming h1:hover{
+    color: black;
+}
+.ourgalary h1:hover{
+    color: black;
+}
+.upcomming p{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.footer{
+    margin-top: 550px;
+    background: rgb(54, 52, 52);
+}
+.footer h3{
+  margin-top: 40px;  
+  color: aliceblue;
+  margin-left: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.footer p{
+ color: aliceblue;
+ margin-left: 100px;
+ margin-right: 100px;
+}
+.footer h1{
+    color: aliceblue;
+    margin-left: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  .last{
+      margin-top: -17px;
+      background: #000;
+      padding: 20px;
+  }
+ 
+  .last p{
+    margin-left: 80px;
+    margin-right: 100px;
+      color: aliceblue;
+
+  }

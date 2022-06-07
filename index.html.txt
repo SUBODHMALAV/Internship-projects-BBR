@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grant Foundation || subodh malav</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+   <header>
+           <div class="upper">
+            <ul>
+                <li> <p>Follow us on: </p> </li>
+                <li><a  href="#" class="fa fa-facebook"></a></li>
+                <li> <a href="#" class="fa fa-twitter"></a> </li>
+                <li> <a href="#" class="fa fa-google"></a> </li>
+                <li> <a href="#" class="fa fa-linkedin"></a></li>
+                <li> <a href="#" class="fa fa-wifi"></a></li>
+                <li> <a href="#" class="fa fa-instagram"></a></li>
+              
+                <p class="side"> Phone: 123-56589</p>
+                <p class="side">Email:admin@gmail.com</p>
+            </ul>
+           </div>
+        
+       <nav class = "navbar">
+
+        <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129824386/original/728c40b809ff5b8bb3d4c7c266b31bee1a465f76/make-your-ngo-a-successful-grant-application.png" alt=""> 
+           <ul class="nav">
+              
+               <li> <a href="#">Home</a> </li>
+               <li> <a href="#">About</a> </li>
+               <li> <a href="#">Project</a> </li>
+               <li> <a href="#">Events</a> </li>
+               <li> <a href="#">Blog</a> </li>
+               <li> <a href="#">Page</a> </li>
+               <li> <a href="#">Shortcut</a> </li>
+              
+               <div class="donate">
+                   <button>Donate</button>
+               </div>
+
+           </ul>
+       </nav>
+   
+       <div class="image">
+           <img src="https://wallpapercave.com/wp/wp2080505.jpg" alt="err">
+          
+       </div>
+   
+   </header>
+
+     <div class="ourgalary">
+             <h1>OUR GALLERY</h1>
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas illo corrupti quod fugit obcaecati impedit cumque tempora laudantium alias asperiores excepturi nam harum sapiente aspernatur, vero perferendis quisquam consequatur necessitatibus ipsam accusantium eligendi autem! Animi labore quod impedit necessitatibus dolor soluta unde optio, quisquam aspernatur incidunt porro exercitationem maxime tenetur, id, mollitia facere sapiente suscipit quia voluptate dolorum ipsum. Cum accusamus eum dicta nemo impedit corporis laboriosam quasi porro magni!</p>
+              
+             <ul class="our">
+                <li> <a href="#">All</a> </li>
+               <li> <a href="#">Charity</a> </li>
+               <li> <a href="#">Nature</a> </li>
+               <li> <a href="#">Wildlife</a> </li>
+               <li> <a href="#">Video</a> </li>
+               <li> <a href="#">Children</a> </li>
+            </ul>
+              
+            <img src="https://i.stack.imgur.com/25aPz.jpg" alt="">
+             </div>
+
+             <div class="upcomming">
+                    <h1>UPCOMMING EVENTS</h1>
+                    <p>School of cretivity Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam sed ipsa, earum deleniti ea officia dolores accusantium labore. Est voluptatum dolorem excepturi dolorum atque quidem illo praesentium explicabo deserunt amet!</p>
+                     <img src="https://rockymountevents.com/wp-content/uploads/2019/05/Upcoming-events-concept-.jpg" alt="">
+             </div>
+
+             <footer>
+                 <div class="footer">
+                      <h1>About Us</h1>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non officia quis ratione. Fuga molestias ut dolorem accusamus porro eligendi fugit, assumenda excepturi voluptatem eaque. Eveniet error laboriosam nisi cupiditate quasi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, asperiores illo! Ipsum, fuga. Consequatur, quod aliquid, sapiente commodi fugiat optio tempore, at illum debitis animi error deserunt labore culpa eligendi esse. Sit explicabo eveniet voluptas debitis et fugit repellat aliquam!</p>
+                       <h1>Contact Us</h1>
+                       <p>Phone: 9549787371</p>
+                       <p>Email: xyz@gmail.com</p>
+                       <p>Address: Mars</p>
+                       <h3 class="my">Our Project -> Water serve -> Education for all -> Treatment -> Food serving -> cloth -> Selter Project  </h3>
+                       <h3 class="my">Quick Links -> Cause -> Project -> Gallery -> Term Of Use -> Private Policy </h3>
+                       <h3 class="my">Newsletter -> Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequatur sequi sunt autem quidem placeat voluptate nemo ex cum? Id autem dolorem quasi minus, placeat sequi quis, blanditiis suscipit unde amet, quibusdam eos sint accusamus neque error facilis facere quo!</h3>
+                    </div>
+                    <div class="last">
+                       <p> © 2022 created  by subodh malav </p>
+                    </div>
+             </footer>
+</body>
+</html>
